@@ -1,0 +1,17 @@
+{
+	"ulid": "01J7185N1FY2ZG2C2YBMZ64PB3",
+	"minTime": 1725480000000,
+	"maxTime": 1725487200000,
+	"stats": {
+		"numSamples": 541714,
+		"numSeries": 815,
+		"numChunks": 4515
+	},
+	"compaction": {
+		"level": 1,
+		"sources": [
+			"01J7185N1FY2ZG2C2YBMZ64PB3"
+		]
+	},
+	"version": 1
+}

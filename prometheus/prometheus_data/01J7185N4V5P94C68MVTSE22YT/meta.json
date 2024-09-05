@@ -1,0 +1,17 @@
+{
+	"ulid": "01J7185N4V5P94C68MVTSE22YT",
+	"minTime": 1725487202356,
+	"maxTime": 1725494400000,
+	"stats": {
+		"numSamples": 17907,
+		"numSeries": 815,
+		"numChunks": 815
+	},
+	"compaction": {
+		"level": 1,
+		"sources": [
+			"01J7185N4V5P94C68MVTSE22YT"
+		]
+	},
+	"version": 1
+}
